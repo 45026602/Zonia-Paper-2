@@ -1,1 +1,1 @@
-# Zonia-Paper-2
+Comparative performance of logistic regression and other machine learning models under class-imbalanced data. Monte Carlo simulations will be used to compare model performance under several simulation configurations. 
